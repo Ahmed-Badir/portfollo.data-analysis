@@ -17,7 +17,7 @@ Welcome to the official repository for my data analyst portfolio website. This p
 Here is a snapshot of the primary sections and case studies showcased in the portfolio:
 
 * **Sales Report Overview & Dashboards:**
-  > ![Sales Report](images/sales-report.png)
+  > ![Sales Report](screencapture-file-C-Users-LEGION-Downloads-Ahmed-Bedir-Data-Analyst-Portfolio-html-2026-10-04-17_02_05.png)
   * Interactive Power BI dashboards tracking business metrics, regional trends, and performance indicators[cite: 2].
 
 * **Key Case Studies:**

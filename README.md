@@ -1,16 +1,40 @@
 # Ahmed Bedir – Data Analyst Portfolio
 
-Welcome to my data analyst portfolio repository! This project showcases my skills in transforming raw data into actionable insights using modern BI tools and data models.
+Welcome to the official repository for my data analyst portfolio website. This project highlights my expertise in transforming raw data into actionable insights, featuring interactive dashboards, case studies, and advanced data models[cite: 2].
 
-## 🚀 About Me
-I am a Data Analyst based in Cairo, Egypt, specializing in building interactive **Power BI dashboards**, **SQL data models**, and reports for various industries including **telecom**, **HR**, and **retail**.
+## 🌐 Live Demo
+* **Portfolio Website:** [View Live](https://Ahmed-Badir.github.io/repository-name) *(استبدل هذا برابط الـ GitHub Pages)*
 
-## 🛠️ Tech Stack & Tools
-* **BI & Visualization:** Power BI, DAX, Excel
-* **Database & Querying:** SQL
-* **Web Structure:** HTML5, CSS3
+---
 
-## 🔗 Live Demo & Links
-* **Portfolio Website:** [View Live](https://your-username.github.io/repository-name) 
-* **LinkedIn:** [Ahmed Bedir](https://www.linkedin.com/in/ahmedbedeer)
-* **GitHub:** [Ahmed-Badir](https://github.com/Ahmed-Badir)
+## 💻 About Me
+* **Background:** Computer Science graduate specializing in data analysis, visualization, and building comprehensive business solutions.
+* **Core Skills:** Power BI, DAX, SQL, Python (Pandas, NumPy, Scikit-learn), Excel, and web development frameworks (React.js, Next.js).
+
+---
+
+## 📊 Selected Work & Case Studies
+Here is a snapshot of the primary sections and case studies showcased in the portfolio:
+
+* **Sales Report Overview & Dashboards:**
+  > ![Sales Report](images/sales-report.png)
+  * Interactive Power BI dashboards tracking business metrics, regional trends, and performance indicators[cite: 2].
+
+* **Key Case Studies:**
+  * **Telecom Performance:** Analyzing churn rates and key network metrics[cite: 2].
+  * **Retail Sales Analysis:** Evaluating revenue growth, customer segments, and regional sales distribution[cite: 2].
+  * **HR Analytics:** Tracking workforce metrics, employee retention, and department distributions[cite: 2].
+
+---
+
+## 🛠️ Tech Stack
+* **BI & Data Visualization:** Power BI, DAX, Advanced Excel
+* **Database Management:** SQL (PostgreSQL, MySQL)
+* **Programming & Automation:** Python, n8n Workflows
+* **Frontend Structure:** HTML5, CSS3, JavaScript, React.js
+
+---
+
+## 🔗 Connect with Me
+* **LinkedIn:** [Ahmed Bedir](https://www.linkedin.com/in/ahmedbedeer)[cite: 2]
+* **GitHub:** [Ahmed-Badir](https://github.com/Ahmed-Badir)[cite: 2]

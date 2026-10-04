@@ -3,7 +3,7 @@
 Welcome to the official repository for my data analyst portfolio website. This project highlights my expertise in transforming raw data into actionable insights, featuring interactive dashboards, case studies, and advanced data models.
 
 ## 🌐 Live Demo & Portfolio Preview
-* **Portfolio Website:** [View Live](https://Ahmed-Badir.github.io/repository-name) *(استبدل هذا برابط الـ GitHub Pages)*
+* **Portfolio Website:** [View Live](https://Ahmed-Badir.github.io/repository-name) 
 
 > ![Ahmed Bedir Portfolio Preview](screencapture-file-C-Users-LEGION-Downloads-Ahmed-Bedir-Data-Analyst-Portfolio-html-2026-10-04-17_02_05.png)
 

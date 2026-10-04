@@ -11,6 +11,6 @@ I am a Data Analyst based in Cairo, Egypt, specializing in building interactive 
 * **Web Structure:** HTML5, CSS3
 
 ## 🔗 Live Demo & Links
-* **Portfolio Website:** [View Live](https://your-username.github.io/repository-name) *(استبدل هذا برابط الموقع بعد تفعيل GitHub Pages)*
+* **Portfolio Website:** [View Live](https://your-username.github.io/repository-name) 
 * **LinkedIn:** [Ahmed Bedir](https://www.linkedin.com/in/ahmedbedeer)
 * **GitHub:** [Ahmed-Badir](https://github.com/Ahmed-Badir)
